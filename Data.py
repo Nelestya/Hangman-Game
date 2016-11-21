@@ -8,7 +8,8 @@ words = [
     "God",
     "Rescue",
     "Cops",
-    "Cut"
+    "Cut",
+    "Hello"
 ]
 
 menu = [
